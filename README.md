@@ -13,9 +13,10 @@ Looking for next level !
 
 
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
 
 
 
