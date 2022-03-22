@@ -1,6 +1,6 @@
-# 💫About Me :
-Curious about life and science ,
-Love computer's world ,
+# About Me :
+Curious about life and science ,/
+Love computer's world ,/
 Looking for next level !
 
 ## 🌐Socials
