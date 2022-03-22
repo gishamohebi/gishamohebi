@@ -12,11 +12,11 @@ Looking for next level !
 
 
 
-### ✍️Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gishamohebi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
