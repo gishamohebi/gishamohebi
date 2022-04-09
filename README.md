@@ -1,4 +1,4 @@
-# About Me :
+# Gisha Mohebi :
 Curious about life and science ,\
 Love computer's world ,\
 Looking for next level !
