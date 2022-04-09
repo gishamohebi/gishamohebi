@@ -1,7 +1,15 @@
 # Gisha Mohebi :
 Curious about life and science ,\
 Love computer's world ,\
-Looking for next level !
+Looking for next level ! \
+
+
+
+
+🌱 I’m currently learning Python - Django - Rest Full API
+👯 I’m looking to collaborate on your company
+💬 Ask me about python - django
+📫 How to reach me: gisha.mohebi@gmail.com
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gisha.mohebi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/moheb_gisha) 
