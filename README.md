@@ -6,7 +6,7 @@ Looking for next level !
 
 
 
--🌱 I’m currently learning Python - Django - Rest Full API.\
+-🌱 I’m currently learning Python - Django - Rest Full API - Docker.\
 -👯 I’m looking to collaborate on your company.\
 -💬 Ask me about python - django.\
 -📫 How to reach me: gisha.mohebi@gmail.com.
